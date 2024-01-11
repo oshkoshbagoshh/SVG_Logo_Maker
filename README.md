@@ -5,12 +5,7 @@ The goal of this project was to create a program in Node JS that would take in u
 
 The project also utilizes Object-Oriented Programming (OOP) fundamentals.
 
-<!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn? -->
 
 ## Table of Contents (Optional)
 
@@ -20,8 +15,7 @@ The project also utilizes Object-Oriented Programming (OOP) fundamentals.
 - [License](#license)
 
 ## Installation
-<!-- 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
+
 To install this project, use the terminal to run:
  ```sh
 npm install
@@ -34,6 +28,8 @@ Then answer the prompts. The generated logo will be saved in the current working
 
 Here is a link to the demo recording:
 [video recording](https://watch.screencastify.com/v/M6bqihB3FOSGpWPnixVO)
+
+![screenshot](assets/images/screenshot.png)
 
 <!-- Provide instructions and examples for use. Include screenshots as needed.
 
