@@ -29,7 +29,7 @@ Then answer the prompts. The generated logo will be saved in the current working
 Here is a link to the demo recording:
 [video recording](https://watch.screencastify.com/v/M6bqihB3FOSGpWPnixVO)
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](assets/images/10-oop-homework-demo.png)
 
 <!-- Provide instructions and examples for use. Include screenshots as needed.
 
